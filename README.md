@@ -1,4 +1,4 @@
-Chrome Extension: Math Question Solver
+SparxBot
 
 Overview
 
